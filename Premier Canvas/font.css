@@ -1,0 +1,12 @@
+#moncanvas{
+	padding: 0;
+	margin: auto;
+	display: block;
+	top: 2;
+	left: 0;
+	right: 0;
+	position :absolute;
+	border-style: solid;
+	border-color: #696969;
+	background: transparent;
+}
